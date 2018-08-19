@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.7.2)
+  - Cloudinary (2.4.0):
+    - Alamofire (~> 4.7.2)
+
+DEPENDENCIES:
+  - Cloudinary (~> 2.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Cloudinary
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  Cloudinary: d87b545d6a5d00c4022bec964839fdaf359d7c53
+
+PODFILE CHECKSUM: 75f1eee86cce0c832242575ff28944897eb8cdba
+
+COCOAPODS: 1.5.3
